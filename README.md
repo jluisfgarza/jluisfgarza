@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Juan Luis!](https://juanluisfg.com) 👋
 
 <!--
 **jluisfgarza/jluisfgarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/jluisfgarza/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.jluisfgarza.vercel.app/api?username=jluisfgarza&show_icons=true&theme=&line_height=27" alt="Juan Luis's github stats" />
+</a>
