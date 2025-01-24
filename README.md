@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/jluisfgarza/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.jluisfgarza.vercel.app/api?username=jluisfgarza&show_icons=true&theme=&line_height=27" alt="Juan Luis's github stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jluisfgarza" />
 </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-readme-stats.jluisfgarza.vercel.app&layout=compact)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jluisfgarza&layout=compact&langs_count=8&card_width=320" />
+</a>
